@@ -73,7 +73,7 @@ npx netlify deploy --prod --dir=dist
 ---
 
 ## 👨‍⚕️ Clinical Faculty
-* **Dr. ASIM (BDS, RDS, C-Implants Bern)** — PMDC Reg # 14892-D (Chief Dental Surgeon)
+* **Dr. Muhammad Asim (BDS, RDS, C-Implants Bern)** — PMDC Reg # 14892-D (Chief Dental Surgeon)
 * **Dr. Ayesha Siddiqui (BDS, FCPS Orthodontics)** — PMDC Reg # 18320-D (Consultant Orthodontist)
 * **Dr. Hamza Malik (BDS, MSc Endodontology UK)** — PMDC Reg # 22145-D (Microscopic Endodontist)
 * **Dr. Zoya Tariq (BDS, CAD)** — PMDC Reg # 25489-D (Aesthetic & Pediatric Dentist)
