@@ -214,6 +214,9 @@ export const Footer: React.FC<FooterProps> = ({ onNavigate, onOpenBooking }) => 
             <span>Rawalpindi & Islamabad</span>
           </div>
         </div>
+        <p className="mt-8 text-center text-[10px] sm:text-xs font-semibold tracking-[0.18em] text-slate-400">
+          MADE BY <span className="text-sky-400">POSITION ZERO AGENCY</span>
+        </p>
       </div>
     </footer>
   );
